@@ -56,6 +56,7 @@ export default {
 		languageEnglish: "English",
 		languageFrench: "French",
 		languageChinese: "Chinese (Simplified)",
+		languagePolish: "Polish",
 		applyLanguage: "Apply language",
 		languageUpdated: "Language updated.",
 		failedToSave: "Failed to save",
